@@ -32,7 +32,7 @@ void PrintArray(string[] array)
 }
 
 Console.WriteLine (" Array: ");
-string[] arrayA = { "1234", "Hello world", "+5", "923", ":-)"};
+string[] arrayA = { "1567", "Hello world", "+5", "923", ":-)", "Russia", "Kazan"};
 PrintArray(arrayA);
 int Array = Size(arrayA);
 string[] arrayB = new string[Array];
